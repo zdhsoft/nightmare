@@ -1,15 +1,14 @@
 {
-  "name": "nightmare",
-  "version": "3.0.2",
+  "name": "@zdhsoft/nightmare",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "lib/nightmare.js",
   "scripts": {
-    "test": "make test",
-    "precommit": "make test"
+
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/segmentio/nightmare.git"
+    "url": "https://github.com/zdhsoft/nightmare.git"
   },
   "author": "Segment",
   "keywords": [
