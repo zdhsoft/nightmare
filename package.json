@@ -1,8 +1,9 @@
 {
   "name": "@zdhsoft/nightmare",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "license": "MIT",
   "main": "lib/nightmare.js",
+  "types": "./types/nightmare/index.d.ts",
   "scripts": {
 
   },
