@@ -23,7 +23,7 @@ declare class Nightmare {
     mousedown(selector: string): Nightmare;
     mouseup(selector: string): Nightmare;
     mouseover(selector: string): Nightmare;
-    type(selector: string, text: string): Nightmare;
+    type(selector: string, text: string, done?:(...args: any[])=> void): Nightmare;
     typeEx(selector: string, text: string, innerTextHas: string, level: number): Nightmare;
     insert(selector: string, text: string): Nightmare;
     check(seletor: string): Nightmare;
