@@ -33,7 +33,8 @@ Many thanks to [@matthewmueller](https://github.com/matthewmueller) and [@rosshi
 * [Usage](#usage)
 * [Debugging](#debugging)
 * [Additional Resources](#additional-resources)
-
+## 补充说明
+- 由于原版的nightmare有些功能没有，使得一些功能没有办法实现。所以这里fork了这个版本，增加了一些功能
 ## Examples
 
 Let's search on DuckDuckGo:

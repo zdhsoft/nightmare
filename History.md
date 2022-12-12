@@ -1,3 +1,7 @@
+# 0.0.5 / 2022-11-20
++ 增加typeEx功能
++ 增加select_index功能
++ 增加*.d.ts
 # 3.0.1 / 2018-03-29
 
 * bump electron to fix #1424
